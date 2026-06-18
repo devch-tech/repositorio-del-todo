@@ -8,7 +8,7 @@
 ![License](https://img.shields.io/badge/LICENCIA-MIT-brightgreen?style=flat-square&labelColor=black)
 ![PRs Welcome](https://img.shields.io/badge/PRs-BIENVENIDAS-blueviolet?style=flat-square&labelColor=black)
 ![Language](https://img.shields.io/badge/IDIOMA-ESPAÑOL-red?style=flat-square&labelColor=black)
-![Repos](https://img.shields.io/badge/RECURSOS-90%2B-blue?style=flat-square&labelColor=black)
+![Repos](https://img.shields.io/badge/RECURSOS-95%2B-blue?style=flat-square&labelColor=black)
 ![Categorías](https://img.shields.io/badge/CATEGORÍAS-8-orange?style=flat-square&labelColor=black)
 ![Serie](https://img.shields.io/badge/SERIE-ACTIVA-success?style=flat-square&labelColor=black)
 
@@ -55,6 +55,7 @@ Recursos para conseguir trabajo como desarrollador, preparar entrevistas técnic
 | [Twipped/InterviewThis](https://github.com/Twipped/InterviewThis) | Preguntas inteligentes que debes hacerle TÚ al empleador para evaluar si la empresa y el equipo valen la pena. |
 | [santifer/career-ops](https://github.com/santifer/career-ops) | Sistema de búsqueda de empleo con IA construido sobre Claude Code: 14 modos de skill, dashboard en Go y generación de PDFs. |
 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Plataforma de búsqueda de empleo con IA basada en Claude Code que evalúa ofertas, personaliza CVs y prepara para entrevistas. |
+| [Jorexdev/java-prep](https://github.com/Jorexdev/java-prep) | Repositorio de preparación intensiva en Java: ejercicios, teoría y retos organizados para dominar el lenguaje en entrevistas. |
 
 ---
 
@@ -80,6 +81,8 @@ Cursos, frameworks, herramientas y recursos para aprender e implementar IA en tu
 | [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) | Colección masiva de workflows de n8n listos para usar, incluyendo los del sitio oficial. Automatización sin código con IA. |
 | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | Alternativa open-source a NotebookLM: toma notas, chatea con documentos y genera podcasts con tus propios modelos de IA. |
 | [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | Herramienta multimodal de IA para analizar y comprender cualquier tipo de contenido: imágenes, documentos, videos y más. |
+| [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) | 500 proyectos con código de IA, ML, Deep Learning, Computer Vision y NLP. El recurso práctico más completo del tema. |
+| [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | Colección de system prompts reales y configuraciones de las principales herramientas IA: Claude, GPT, Gemini y más. |
 | [Practical Deep Learning for Coders](https://course.fast.ai) | Curso práctico de deep learning orientado a programadores de fast.ai, con ejemplos del mundo real desde el primer día. |
 
 ---
@@ -128,6 +131,7 @@ El ecosistema en expansión de herramientas, skills, harnesses y frameworks cons
 | [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) | Agente IA de navegación y razonamiento autónomo inspirado en la odisea: planifica, explora y toma decisiones por etapas. |
 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Skill para Claude Code que recomienda y filtra contenido según el gusto personal del usuario. |
 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | Herramienta para cambiar entre distintas configuraciones y perfiles de Claude Code de forma rápida. |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Gestor de cola de tareas para agentes IA: organiza, prioriza y ejecuta tareas de forma ordenada en tus flujos de agentes. |
 
 ---
 
@@ -177,6 +181,7 @@ Recursos para aprender programación de forma práctica, contribuir a open sourc
 | [Syknapse/Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) | Proyecto guiado para aprender el flujo completo de contribución en GitHub sin fricción desde el primer intento. |
 | [NotHarshhaa/DevOps-Projects](https://github.com/NotHarshhaa/DevOps-Projects) | Proyectos DevOps del mundo real organizados desde nivel principiante hasta avanzado: CI/CD, Kubernetes, Terraform y más. |
 | [tkarim45/Beginner-Data-Science-Projects](https://github.com/tkarim45/Beginner-Data-Science-Projects) | Proyectos de ciencia de datos con enfoque práctico y hands-on, ideales para comenzar en el área de datos. |
+| [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources) | Ideas de proyectos con recursos para implementarlos: tutoriales, APIs, datasets y más para cada idea propuesta. |
 
 ---
 
