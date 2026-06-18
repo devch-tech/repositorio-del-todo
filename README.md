@@ -46,6 +46,7 @@ Recursos para conseguir trabajo como desarrollador, preparar entrevistas técnic
 
 | Repositorio | Descripción |
 |-------------|-------------|
+| [Jorexdev/java-prep](https://github.com/Jorexdev/java-prep) | Repositorio de preparación intensiva en Java: ejercicios, teoría y retos organizados para dominar el lenguaje en entrevistas. |
 | [SimplifyJobs/New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions) | Colección de posiciones full-time en SWE, Quant y PM para recién graduados, actualizada constantemente por la comunidad. |
 | [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | La guía más completa para preparar entrevistas de programación: algoritmos, behavioral, tips de negociación y más. |
 | [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) | Lista de listas de preguntas de entrevista para casi cualquier tecnología, lenguaje y rol técnico. |
@@ -55,7 +56,6 @@ Recursos para conseguir trabajo como desarrollador, preparar entrevistas técnic
 | [Twipped/InterviewThis](https://github.com/Twipped/InterviewThis) | Preguntas inteligentes que debes hacerle TÚ al empleador para evaluar si la empresa y el equipo valen la pena. |
 | [santifer/career-ops](https://github.com/santifer/career-ops) | Sistema de búsqueda de empleo con IA construido sobre Claude Code: 14 modos de skill, dashboard en Go y generación de PDFs. |
 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Plataforma de búsqueda de empleo con IA basada en Claude Code que evalúa ofertas, personaliza CVs y prepara para entrevistas. |
-| [Jorexdev/java-prep](https://github.com/Jorexdev/java-prep) | Repositorio de preparación intensiva en Java: ejercicios, teoría y retos organizados para dominar el lenguaje en entrevistas. |
 
 ---
 
