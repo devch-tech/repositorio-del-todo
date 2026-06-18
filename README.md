@@ -8,7 +8,7 @@
 ![License](https://img.shields.io/badge/LICENCIA-MIT-brightgreen?style=flat-square&labelColor=black)
 ![PRs Welcome](https://img.shields.io/badge/PRs-BIENVENIDAS-blueviolet?style=flat-square&labelColor=black)
 ![Language](https://img.shields.io/badge/IDIOMA-ESPAÑOL-red?style=flat-square&labelColor=black)
-![Repos](https://img.shields.io/badge/RECURSOS-95%2B-blue?style=flat-square&labelColor=black)
+![Repos](https://img.shields.io/badge/RECURSOS-100%2B-blue?style=flat-square&labelColor=black)
 ![Categorías](https://img.shields.io/badge/CATEGORÍAS-8-orange?style=flat-square&labelColor=black)
 ![Serie](https://img.shields.io/badge/SERIE-ACTIVA-success?style=flat-square&labelColor=black)
 
@@ -132,6 +132,9 @@ El ecosistema en expansión de herramientas, skills, harnesses y frameworks cons
 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Skill para Claude Code que recomienda y filtra contenido según el gusto personal del usuario. |
 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | Herramienta para cambiar entre distintas configuraciones y perfiles de Claude Code de forma rápida. |
 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | Gestor de cola de tareas para agentes IA: organiza, prioriza y ejecuta tareas de forma ordenada en tus flujos de agentes. |
+| [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) | Suite de herramientas y configuraciones de IA del canal Gentleman Programming para potenciar tu flujo de desarrollo. |
+| [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram) | Sistema de memoria persistente para agentes IA: almacena y recupera contexto entre sesiones de forma estructurada. |
+| [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) | Guardian Angel para Claude Code: supervisa, protege y guía al agente para que siga buenas prácticas en cada decisión. |
 
 ---
 
