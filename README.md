@@ -8,7 +8,7 @@
 ![License](https://img.shields.io/badge/LICENCIA-MIT-brightgreen?style=flat-square&labelColor=black)
 ![PRs Welcome](https://img.shields.io/badge/PRs-BIENVENIDAS-blueviolet?style=flat-square&labelColor=black)
 ![Language](https://img.shields.io/badge/IDIOMA-ESPAÑOL-red?style=flat-square&labelColor=black)
-![Repos](https://img.shields.io/badge/RECURSOS-100%2B-blue?style=flat-square&labelColor=black)
+![Repos](https://img.shields.io/badge/RECURSOS-105%2B-blue?style=flat-square&labelColor=black)
 ![Categorías](https://img.shields.io/badge/CATEGORÍAS-8-orange?style=flat-square&labelColor=black)
 ![Serie](https://img.shields.io/badge/SERIE-ACTIVA-success?style=flat-square&labelColor=black)
 
@@ -83,6 +83,7 @@ Cursos, frameworks, herramientas y recursos para aprender e implementar IA en tu
 | [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | Herramienta multimodal de IA para analizar y comprender cualquier tipo de contenido: imágenes, documentos, videos y más. |
 | [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) | 500 proyectos con código de IA, ML, Deep Learning, Computer Vision y NLP. El recurso práctico más completo del tema. |
 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | Colección de system prompts reales y configuraciones de las principales herramientas IA: Claude, GPT, Gemini y más. |
+| [lmcache/lmcache](https://github.com/lmcache/lmcache) | Capa de caché para LLMs que reduce latencia y costos reutilizando el KV cache entre peticiones y sesiones. |
 | [Practical Deep Learning for Coders](https://course.fast.ai) | Curso práctico de deep learning orientado a programadores de fast.ai, con ejemplos del mundo real desde el primer día. |
 
 ---
@@ -135,6 +136,9 @@ El ecosistema en expansión de herramientas, skills, harnesses y frameworks cons
 | [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai) | Suite de herramientas y configuraciones de IA del canal Gentleman Programming para potenciar tu flujo de desarrollo. |
 | [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram) | Sistema de memoria persistente para agentes IA: almacena y recupera contexto entre sesiones de forma estructurada. |
 | [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) | Guardian Angel para Claude Code: supervisa, protege y guía al agente para que siga buenas prácticas en cada decisión. |
+| [ChristopherKahler/paul](https://github.com/ChristopherKahler/paul) | Agente IA personal de productividad: gestiona tareas, recordatorios y flujos de trabajo desde la línea de comandos. |
+| [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) | Skill para Claude Code que genera copys y creatividades publicitarias optimizadas para diferentes plataformas y audiencias. |
+| [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Herramienta de NVIDIA para inspeccionar, analizar y depurar skills de agentes IA: visualiza el comportamiento y las llamadas. |
 
 ---
 
@@ -204,6 +208,7 @@ Herramientas, cheatsheets, recursos de diseño y utilidades que todo desarrollad
 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Genera videos cortos de forma completamente automática con IA: guión, voz, subtítulos y montaje en un solo comando. |
 | [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) | Servidor de mensajería instantánea open-source de nivel empresarial. La alternativa self-hosted a Slack o Discord. |
 | [tbphp/gpt-load](https://github.com/tbphp/gpt-load) | Balanceador de carga para APIs de LLMs: distribuye peticiones entre múltiples claves o proveedores de forma transparente. |
+| [opencut-app/opencut](https://github.com/opencut-app/opencut) | Editor de video open-source basado en web: alternativa gratuita a CapCut con timeline, cortes, subtítulos y más. |
 
 ---
 
