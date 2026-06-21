@@ -8,7 +8,7 @@
 ![License](https://img.shields.io/badge/LICENCIA-MIT-brightgreen?style=flat-square&labelColor=black)
 ![PRs Welcome](https://img.shields.io/badge/PRs-BIENVENIDAS-blueviolet?style=flat-square&labelColor=black)
 ![Language](https://img.shields.io/badge/IDIOMA-ESPAÑOL-red?style=flat-square&labelColor=black)
-![Repos](https://img.shields.io/badge/RECURSOS-105%2B-blue?style=flat-square&labelColor=black)
+![Repos](https://img.shields.io/badge/RECURSOS-110%2B-blue?style=flat-square&labelColor=black)
 ![Categorías](https://img.shields.io/badge/CATEGORÍAS-8-orange?style=flat-square&labelColor=black)
 ![Serie](https://img.shields.io/badge/SERIE-ACTIVA-success?style=flat-square&labelColor=black)
 
@@ -84,6 +84,9 @@ Cursos, frameworks, herramientas y recursos para aprender e implementar IA en tu
 | [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) | 500 proyectos con código de IA, ML, Deep Learning, Computer Vision y NLP. El recurso práctico más completo del tema. |
 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | Colección de system prompts reales y configuraciones de las principales herramientas IA: Claude, GPT, Gemini y más. |
 | [lmcache/lmcache](https://github.com/lmcache/lmcache) | Capa de caché para LLMs que reduce latencia y costos reutilizando el KV cache entre peticiones y sesiones. |
+| [langgenius/dify](https://github.com/langgenius/dify) | Plataforma open-source para construir aplicaciones con LLMs: RAG, agentes, workflows y observabilidad en un solo lugar. |
+| [flowiseai/flowise](https://github.com/flowiseai/flowise) | Herramienta low-code para construir flujos de LLMs con drag & drop. Crea chatbots, agentes y pipelines de IA visualmente. |
+| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | Indexa páginas web completas para que los LLMs puedan consultarlas con precisión sin alucinaciones ni contexto truncado. |
 | [Practical Deep Learning for Coders](https://course.fast.ai) | Curso práctico de deep learning orientado a programadores de fast.ai, con ejemplos del mundo real desde el primer día. |
 
 ---
@@ -139,6 +142,7 @@ El ecosistema en expansión de herramientas, skills, harnesses y frameworks cons
 | [ChristopherKahler/paul](https://github.com/ChristopherKahler/paul) | Agente IA personal de productividad: gestiona tareas, recordatorios y flujos de trabajo desde la línea de comandos. |
 | [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) | Skill para Claude Code que genera copys y creatividades publicitarias optimizadas para diferentes plataformas y audiencias. |
 | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Herramienta de NVIDIA para inspeccionar, analizar y depurar skills de agentes IA: visualiza el comportamiento y las llamadas. |
+| [continuedev/continue](https://github.com/continuedev/continue) | Asistente de código IA open-source para VS Code y JetBrains: autocompletado, chat en el editor y refactoring con cualquier modelo. |
 
 ---
 
@@ -209,6 +213,7 @@ Herramientas, cheatsheets, recursos de diseño y utilidades que todo desarrollad
 | [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) | Servidor de mensajería instantánea open-source de nivel empresarial. La alternativa self-hosted a Slack o Discord. |
 | [tbphp/gpt-load](https://github.com/tbphp/gpt-load) | Balanceador de carga para APIs de LLMs: distribuye peticiones entre múltiples claves o proveedores de forma transparente. |
 | [opencut-app/opencut](https://github.com/opencut-app/opencut) | Editor de video open-source basado en web: alternativa gratuita a CapCut con timeline, cortes, subtítulos y más. |
+| [activepieces/activepieces](https://github.com/activepieces/activepieces) | Automatización de tareas open-source estilo Zapier/Make: conecta apps, crea flujos sin código y auto-hospédalo tú mismo. |
 
 ---
 
