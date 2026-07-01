@@ -8,7 +8,7 @@
 ![License](https://img.shields.io/badge/LICENCIA-MIT-brightgreen?style=flat-square&labelColor=black)
 ![PRs Welcome](https://img.shields.io/badge/PRs-BIENVENIDAS-blueviolet?style=flat-square&labelColor=black)
 ![Language](https://img.shields.io/badge/IDIOMA-ESPAÑOL-red?style=flat-square&labelColor=black)
-![Repos](https://img.shields.io/badge/RECURSOS-110%2B-blue?style=flat-square&labelColor=black)
+![Repos](https://img.shields.io/badge/RECURSOS-111%2B-blue?style=flat-square&labelColor=black)
 ![Categorías](https://img.shields.io/badge/CATEGORÍAS-8-orange?style=flat-square&labelColor=black)
 ![Serie](https://img.shields.io/badge/SERIE-ACTIVA-success?style=flat-square&labelColor=black)
 
@@ -143,6 +143,7 @@ El ecosistema en expansión de herramientas, skills, harnesses y frameworks cons
 | [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) | Skill para Claude Code que genera copys y creatividades publicitarias optimizadas para diferentes plataformas y audiencias. |
 | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Herramienta de NVIDIA para inspeccionar, analizar y depurar skills de agentes IA: visualiza el comportamiento y las llamadas. |
 | [continuedev/continue](https://github.com/continuedev/continue) | Asistente de código IA open-source para VS Code y JetBrains: autocompletado, chat en el editor y refactoring con cualquier modelo. |
+| [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | Plataforma para gestionar y optimizar el contexto de tus agentes IA: controla el headroom disponible y evita pérdidas de contexto. |
 
 ---
 
