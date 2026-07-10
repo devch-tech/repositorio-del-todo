@@ -8,7 +8,7 @@
 ![License](https://img.shields.io/badge/LICENCIA-MIT-brightgreen?style=flat-square&labelColor=black)
 ![PRs Welcome](https://img.shields.io/badge/PRs-BIENVENIDAS-blueviolet?style=flat-square&labelColor=black)
 ![Language](https://img.shields.io/badge/IDIOMA-ESPAÑOL-red?style=flat-square&labelColor=black)
-![Repos](https://img.shields.io/badge/RECURSOS-111%2B-blue?style=flat-square&labelColor=black)
+![Repos](https://img.shields.io/badge/RECURSOS-117%2B-blue?style=flat-square&labelColor=black)
 ![Categorías](https://img.shields.io/badge/CATEGORÍAS-8-orange?style=flat-square&labelColor=black)
 ![Serie](https://img.shields.io/badge/SERIE-ACTIVA-success?style=flat-square&labelColor=black)
 
@@ -84,6 +84,7 @@ Cursos, frameworks, herramientas y recursos para aprender e implementar IA en tu
 | [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) | 500 proyectos con código de IA, ML, Deep Learning, Computer Vision y NLP. El recurso práctico más completo del tema. |
 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | Colección de system prompts reales y configuraciones de las principales herramientas IA: Claude, GPT, Gemini y más. |
 | [lmcache/lmcache](https://github.com/lmcache/lmcache) | Capa de caché para LLMs que reduce latencia y costos reutilizando el KV cache entre peticiones y sesiones. |
+| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | Hub de ingeniería IA con tutoriales, notebooks y proyectos prácticos sobre LLMs, RAG, agentes y arquitecturas modernas. |
 | [langgenius/dify](https://github.com/langgenius/dify) | Plataforma open-source para construir aplicaciones con LLMs: RAG, agentes, workflows y observabilidad en un solo lugar. |
 | [flowiseai/flowise](https://github.com/flowiseai/flowise) | Herramienta low-code para construir flujos de LLMs con drag & drop. Crea chatbots, agentes y pipelines de IA visualmente. |
 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | Indexa páginas web completas para que los LLMs puedan consultarlas con precisión sin alucinaciones ni contexto truncado. |
@@ -144,6 +145,8 @@ El ecosistema en expansión de herramientas, skills, harnesses y frameworks cons
 | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Herramienta de NVIDIA para inspeccionar, analizar y depurar skills de agentes IA: visualiza el comportamiento y las llamadas. |
 | [continuedev/continue](https://github.com/continuedev/continue) | Asistente de código IA open-source para VS Code y JetBrains: autocompletado, chat en el editor y refactoring con cualquier modelo. |
 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | Plataforma para gestionar y optimizar el contexto de tus agentes IA: controla el headroom disponible y evita pérdidas de contexto. |
+| [vercel-labs/skills](https://github.com/vercel-labs/skills) | Colección oficial de skills de Vercel para agentes IA: herramientas de despliegue, preview, dominio y más integradas en Claude Code. |
+| [anus-dev/ANUS](https://github.com/anus-dev/ANUS) | Autonomous Networking Unit System: framework de agentes IA autónomos para ejecutar tareas complejas en la web y el sistema. |
 
 ---
 
@@ -215,6 +218,9 @@ Herramientas, cheatsheets, recursos de diseño y utilidades que todo desarrollad
 | [tbphp/gpt-load](https://github.com/tbphp/gpt-load) | Balanceador de carga para APIs de LLMs: distribuye peticiones entre múltiples claves o proveedores de forma transparente. |
 | [opencut-app/opencut](https://github.com/opencut-app/opencut) | Editor de video open-source basado en web: alternativa gratuita a CapCut con timeline, cortes, subtítulos y más. |
 | [activepieces/activepieces](https://github.com/activepieces/activepieces) | Automatización de tareas open-source estilo Zapier/Make: conecta apps, crea flujos sin código y auto-hospédalo tú mismo. |
+| [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) | Lista curada de recursos, herramientas, guías y proyectos sobre Docker. El punto de partida para dominar contenedores. |
+| [directus/directus](https://github.com/directus/directus) | CMS headless y plataforma de datos open-source: convierte cualquier base de datos SQL en una API REST/GraphQL al instante. |
+| [open-guides/og-aws](https://github.com/open-guides/og-aws) | Guía práctica y honesta de AWS escrita por ingenieros que lo usan a diario: tips, errores comunes y mejores prácticas. |
 
 ---
 
