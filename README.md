@@ -8,7 +8,7 @@
 ![License](https://img.shields.io/badge/LICENCIA-MIT-brightgreen?style=flat-square&labelColor=black)
 ![PRs Welcome](https://img.shields.io/badge/PRs-BIENVENIDAS-blueviolet?style=flat-square&labelColor=black)
 ![Language](https://img.shields.io/badge/IDIOMA-ESPAÑOL-red?style=flat-square&labelColor=black)
-![Repos](https://img.shields.io/badge/RECURSOS-128%2B-blue?style=flat-square&labelColor=black)
+![Repos](https://img.shields.io/badge/RECURSOS-141%2B-blue?style=flat-square&labelColor=black)
 ![Categorías](https://img.shields.io/badge/CATEGORÍAS-8-orange?style=flat-square&labelColor=black)
 ![Serie](https://img.shields.io/badge/SERIE-ACTIVA-success?style=flat-square&labelColor=black)
 
@@ -86,6 +86,8 @@ Cursos, frameworks, herramientas y recursos para aprender e implementar IA en tu
 | [lmcache/lmcache](https://github.com/lmcache/lmcache) | Capa de caché para LLMs que reduce latencia y costos reutilizando el KV cache entre peticiones y sesiones. |
 | [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | Hub de ingeniería IA con tutoriales, notebooks y proyectos prácticos sobre LLMs, RAG, agentes y arquitecturas modernas. |
 | [0din-ai/ai-scanner](https://github.com/0din-ai/ai-scanner) | Scanner de seguridad para aplicaciones y prompts de IA: detecta vulnerabilidades, prompt injection y comportamientos inseguros. |
+| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Plataforma open-source para crear humanos digitales realistas con IA: avatares, voz y gestos sincronizados. |
+| [open-biz/OpenBookLM](https://github.com/open-biz/OpenBookLM) | Alternativa open-source a NotebookLM de Google: sube documentos, genera podcasts y chatea con tu base de conocimiento. |
 | [anil-matcha/open-generative-ai](https://github.com/anil-matcha/open-generative-ai) | Colección de proyectos open-source de IA generativa: apps, clones, demos y herramientas listas para explorar y aprender. |
 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Tutor IA profundo para documentos técnicos y papers: los explica, responde preguntas y guía el aprendizaje paso a paso. |
 | [langgenius/dify](https://github.com/langgenius/dify) | Plataforma open-source para construir aplicaciones con LLMs: RAG, agentes, workflows y observabilidad en un solo lugar. |
@@ -156,6 +158,12 @@ El ecosistema en expansión de herramientas, skills, harnesses y frameworks cons
 | [Katzca/AutoSocial](https://github.com/Katzca/AutoSocial) | Automatización de redes sociales con IA: genera, programa y publica contenido en múltiples plataformas de forma autónoma. |
 | [tonhowtf/omniget](https://github.com/tonhowtf/omniget) | Herramienta universal para obtener y descargar contenido de cualquier fuente web de forma rápida y flexible. |
 | [kiryano/Scout](https://github.com/kiryano/Scout) | Agente de exploración y reconocimiento de codebases: mapea la estructura, dependencias y puntos clave de cualquier proyecto. |
+| [giancarloerra/socraticode](https://github.com/giancarloerra/socraticode) | Agente IA que te enseña a programar al estilo socrático: en vez de darte la solución, te guía con preguntas hasta que la encuentres. |
+| [revfactory/harness](https://github.com/revfactory/harness) | Harness de agentes IA configurable: orquesta múltiples modelos y herramientas en pipelines de tareas complejas. |
+| [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | CLI de IA para entornos de oficina: automatiza tareas de productividad, documentos y comunicación desde la terminal. |
+| [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | Convierte cualquier libro o documento en una skill lista para que Claude Code aprenda y aplique su contenido. |
+| [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | Router inteligente de modelos IA: decide automáticamente qué LLM usar para cada tarea según coste, velocidad y calidad. |
+| [penecho/penecho](https://github.com/penecho/penecho) | Asistente de escritura con IA que aprende tu estilo y voz para ayudarte a redactar con coherencia y autenticidad. |
 
 ---
 
@@ -167,6 +175,7 @@ Recursos para aprender a diseñar sistemas robustos, escalables y distribuidos. 
 |-------------|-------------|
 | [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) | Patrones de sistemas escalables, confiables y de alto rendimiento usados en empresas como Netflix, Amazon y Google. |
 | [aleixmorgadas/awesome-engineering-strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy) | Cómo diseñar y ejecutar estrategias de ingeniería para tech leadership efectivo. Recursos para líderes técnicos. |
+| [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) | Patrones y prácticas para construir sistemas de agentes IA en bucle: evaluación, corrección y mejora continua automatizada. |
 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | El recurso más popular de GitHub para aprender a diseñar sistemas a gran escala. Incluye flashcards Anki para repasar. |
 | [theanalyst/awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems) | Lista curada de los mejores papers, libros y recursos para aprender sobre sistemas distribuidos desde cero. |
 
@@ -228,6 +237,10 @@ Herramientas, cheatsheets, recursos de diseño y utilidades que todo desarrollad
 | [opencut-app/opencut](https://github.com/opencut-app/opencut) | Editor de video open-source basado en web: alternativa gratuita a CapCut con timeline, cortes, subtítulos y más. |
 | [Ahmadibrahiim/Website-downloader](https://github.com/Ahmadibrahiim/Website-downloader) | Descarga sitios web completos para uso offline: HTML, CSS, imágenes y recursos, todo con un solo comando. |
 | [evolution-foundation/evolution-go](https://github.com/evolution-foundation/evolution-go) | Framework Go para construir sistemas distribuidos evolutivos que se adaptan y mejoran con el tiempo de forma autónoma. |
+| [zenhosta/9drive](https://github.com/zenhosta/9drive) | Solución de almacenamiento en la nube self-hosted: tu propio Google Drive privado con soporte multi-usuario. |
+| [spotiflacapp/SpotiFLAC-Mobile](https://github.com/spotiflacapp/SpotiFLAC-Mobile) | App móvil para descargar música de Spotify en formato FLAC de alta calidad sin pérdida de audio. |
+| [slvDev/esp32-ai](https://github.com/slvDev/esp32-ai) | Integra modelos de IA directamente en dispositivos ESP32: voz, visión y procesamiento inteligente en hardware embebido. |
+| [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | Herramientas y configuraciones de productividad diseñadas específicamente para programadores con ADHD. |
 | [activepieces/activepieces](https://github.com/activepieces/activepieces) | Automatización de tareas open-source estilo Zapier/Make: conecta apps, crea flujos sin código y auto-hospédalo tú mismo. |
 | [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) | Lista curada de recursos, herramientas, guías y proyectos sobre Docker. El punto de partida para dominar contenedores. |
 | [directus/directus](https://github.com/directus/directus) | CMS headless y plataforma de datos open-source: convierte cualquier base de datos SQL en una API REST/GraphQL al instante. |
