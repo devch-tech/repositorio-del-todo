@@ -8,7 +8,7 @@
 ![License](https://img.shields.io/badge/LICENCIA-MIT-brightgreen?style=flat-square&labelColor=black)
 ![PRs Welcome](https://img.shields.io/badge/PRs-BIENVENIDAS-blueviolet?style=flat-square&labelColor=black)
 ![Language](https://img.shields.io/badge/IDIOMA-ESPAÑOL-red?style=flat-square&labelColor=black)
-![Repos](https://img.shields.io/badge/RECURSOS-141%2B-blue?style=flat-square&labelColor=black)
+![Repos](https://img.shields.io/badge/RECURSOS-150%2B-blue?style=flat-square&labelColor=black)
 ![Categorías](https://img.shields.io/badge/CATEGORÍAS-8-orange?style=flat-square&labelColor=black)
 ![Serie](https://img.shields.io/badge/SERIE-ACTIVA-success?style=flat-square&labelColor=black)
 
@@ -82,6 +82,13 @@ Cursos, frameworks, herramientas y recursos para aprender e implementar IA en tu
 | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | Alternativa open-source a NotebookLM: toma notas, chatea con documentos y genera podcasts con tus propios modelos de IA. |
 | [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | Herramienta multimodal de IA para analizar y comprender cualquier tipo de contenido: imágenes, documentos, videos y más. |
 | [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) | 500 proyectos con código de IA, ML, Deep Learning, Computer Vision y NLP. El recurso práctico más completo del tema. |
+| [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) | 500 proyectos de agentes IA con código: automatización, investigación, coding, análisis de datos y mucho más. |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Colección de apps construidas con LLMs: RAG, agentes, multimodal y más, todas con código listo para ejecutar. |
+| [mlabonne/llm-course](https://github.com/mlabonne/llm-course) | Curso completo sobre LLMs: desde los fundamentos matemáticos hasta fine-tuning, alineación y despliegue en producción. |
+| [dair-ai/prompt-engineering-guide](https://github.com/dair-ai/prompt-engineering-guide) | La guía de referencia de prompt engineering: técnicas, papers, casos de uso y mejores prácticas para todos los modelos. |
+| [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) | Lista curada de los mejores frameworks, herramientas y proyectos de agentes IA disponibles en el ecosistema actual. |
+| [huggingface/agents-course](https://github.com/huggingface/agents-course) | Curso oficial de Hugging Face sobre agentes IA: aprende a construir agentes con herramientas, memoria y razonamiento. |
+| [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | Framework open-source de ByteDance/VolcEngine para construir y desplegar aplicaciones IA a gran escala. |
 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | Colección de system prompts reales y configuraciones de las principales herramientas IA: Claude, GPT, Gemini y más. |
 | [lmcache/lmcache](https://github.com/lmcache/lmcache) | Capa de caché para LLMs que reduce latencia y costos reutilizando el KV cache entre peticiones y sesiones. |
 | [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | Hub de ingeniería IA con tutoriales, notebooks y proyectos prácticos sobre LLMs, RAG, agentes y arquitecturas modernas. |
@@ -235,6 +242,8 @@ Herramientas, cheatsheets, recursos de diseño y utilidades que todo desarrollad
 | [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) | Servidor de mensajería instantánea open-source de nivel empresarial. La alternativa self-hosted a Slack o Discord. |
 | [tbphp/gpt-load](https://github.com/tbphp/gpt-load) | Balanceador de carga para APIs de LLMs: distribuye peticiones entre múltiples claves o proveedores de forma transparente. |
 | [opencut-app/opencut](https://github.com/opencut-app/opencut) | Editor de video open-source basado en web: alternativa gratuita a CapCut con timeline, cortes, subtítulos y más. |
+| [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) | Navegador basado en Firefox enfocado en privacidad y camuflaje de huella digital para proteger tu identidad online. |
+| [ifixai-ai/ifixai](https://github.com/ifixai-ai/ifixai) | Herramienta IA para diagnosticar y reparar errores en código automáticamente: pega el error y obtén la solución explicada. |
 | [Ahmadibrahiim/Website-downloader](https://github.com/Ahmadibrahiim/Website-downloader) | Descarga sitios web completos para uso offline: HTML, CSS, imágenes y recursos, todo con un solo comando. |
 | [evolution-foundation/evolution-go](https://github.com/evolution-foundation/evolution-go) | Framework Go para construir sistemas distribuidos evolutivos que se adaptan y mejoran con el tiempo de forma autónoma. |
 | [zenhosta/9drive](https://github.com/zenhosta/9drive) | Solución de almacenamiento en la nube self-hosted: tu propio Google Drive privado con soporte multi-usuario. |
