@@ -8,7 +8,7 @@
 ![License](https://img.shields.io/badge/LICENCIA-MIT-brightgreen?style=flat-square&labelColor=black)
 ![PRs Welcome](https://img.shields.io/badge/PRs-BIENVENIDAS-blueviolet?style=flat-square&labelColor=black)
 ![Language](https://img.shields.io/badge/IDIOMA-ESPAÑOL-red?style=flat-square&labelColor=black)
-![Repos](https://img.shields.io/badge/RECURSOS-150%2B-blue?style=flat-square&labelColor=black)
+![Repos](https://img.shields.io/badge/RECURSOS-161%2B-blue?style=flat-square&labelColor=black)
 ![Categorías](https://img.shields.io/badge/CATEGORÍAS-8-orange?style=flat-square&labelColor=black)
 ![Serie](https://img.shields.io/badge/SERIE-ACTIVA-success?style=flat-square&labelColor=black)
 
@@ -156,6 +156,11 @@ El ecosistema en expansión de herramientas, skills, harnesses y frameworks cons
 | [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) | Skill para Claude Code que genera copys y creatividades publicitarias optimizadas para diferentes plataformas y audiencias. |
 | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Herramienta de NVIDIA para inspeccionar, analizar y depurar skills de agentes IA: visualiza el comportamiento y las llamadas. |
 | [continuedev/continue](https://github.com/continuedev/continue) | Asistente de código IA open-source para VS Code y JetBrains: autocompletado, chat en el editor y refactoring con cualquier modelo. |
+| [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | Skill para Claude Code que genera y edita videos automáticamente usando IA a partir de prompts o guiones. |
+| [Dpro-at/Tel-Agent](https://github.com/Dpro-at/Tel-Agent) | Agente IA para Telegram: responde mensajes, ejecuta tareas y automatiza flujos directamente desde tu cuenta de Telegram. |
+| [duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server) | Servidor MCP que conecta Claude con x64dbg para depurar binarios y analizar ensamblador con asistencia de IA. |
+| [Chuloo/mural](https://github.com/Chuloo/mural) | Herramienta de colaboración visual con IA: genera murales, diagramas y tableros interactivos desde descripciones en lenguaje natural. |
+| [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) | Visualizador de diffs con IA: explica qué cambió entre versiones de código y por qué importa cada diferencia. |
 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | Plataforma para gestionar y optimizar el contexto de tus agentes IA: controla el headroom disponible y evita pérdidas de contexto. |
 | [vercel-labs/skills](https://github.com/vercel-labs/skills) | Colección oficial de skills de Vercel para agentes IA: herramientas de despliegue, preview, dominio y más integradas en Claude Code. |
 | [anus-dev/ANUS](https://github.com/anus-dev/ANUS) | Autonomous Networking Unit System: framework de agentes IA autónomos para ejecutar tareas complejas en la web y el sistema. |
@@ -251,6 +256,12 @@ Herramientas, cheatsheets, recursos de diseño y utilidades que todo desarrollad
 | [slvDev/esp32-ai](https://github.com/slvDev/esp32-ai) | Integra modelos de IA directamente en dispositivos ESP32: voz, visión y procesamiento inteligente en hardware embebido. |
 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | Herramientas y configuraciones de productividad diseñadas específicamente para programadores con ADHD. |
 | [activepieces/activepieces](https://github.com/activepieces/activepieces) | Automatización de tareas open-source estilo Zapier/Make: conecta apps, crea flujos sin código y auto-hospédalo tú mismo. |
+| [agalwood/motrix](https://github.com/agalwood/motrix) | Gestor de descargas open-source multiplataforma: soporta HTTP, FTP, BitTorrent, Magnet y más con una UI limpia. |
+| [posthog/posthog](https://github.com/posthog/posthog) | Plataforma de analíticas de producto open-source self-hosted: eventos, funnels, feature flags, grabaciones de sesión y más. |
+| [tt-a1i/archify](https://github.com/tt-a1i/archify) | Herramienta para archivar y preservar contenido web de forma inteligente: guarda páginas, recursos y metadatos. |
+| [CristianOlivera1/openvid](https://github.com/CristianOlivera1/openvid) | Editor de video open-source ligero con IA: recorte, ajustes y exportación rápida desde el navegador. |
+| [reconurge/flowsint](https://github.com/reconurge/flowsint) | Herramienta de OSINT visual basada en flujos: investiga personas, dominios y redes de forma gráfica e interactiva. |
+| [kgoedecke/doop](https://github.com/kgoedecke/doop) | CLI para gestionar operaciones de desarrollo y despliegue repetitivas: automatiza el ciclo build-test-deploy desde terminal. |
 | [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) | Lista curada de recursos, herramientas, guías y proyectos sobre Docker. El punto de partida para dominar contenedores. |
 | [directus/directus](https://github.com/directus/directus) | CMS headless y plataforma de datos open-source: convierte cualquier base de datos SQL en una API REST/GraphQL al instante. |
 | [open-guides/og-aws](https://github.com/open-guides/og-aws) | Guía práctica y honesta de AWS escrita por ingenieros que lo usan a diario: tips, errores comunes y mejores prácticas. |
